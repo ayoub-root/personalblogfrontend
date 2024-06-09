@@ -2,6 +2,7 @@
 
 Welcome to My Portfolio and Blog Application! This project is a feature-rich web application built using Next.js. It includes a blog, a portfolio section, and a dashboard to manage different portfolios (CVs). The application also features a contact page to receive messages, user authentication (login, register, and password reset), and more.
 
+(this readme should be updated)
 ## Table of Contents
 - [Features](#features)
 - [Prerequisites](#prerequisites)
@@ -113,6 +114,6 @@ your-repo-name/
 ```
 
 ## Contact
-If you have any questions or need further assistance, please feel free to contact me at [your-email@example.com].
+If you have any questions or need further assistance, please feel free to contact me at [ayoub.inf30@gmail.com].
 
 Thank you for using My Portfolio and Blog Application!
